@@ -18,11 +18,12 @@ const Content = () => {
   return (
     <>
       <TitlePrincipal>
-        ¿Cómo afecta la subida de tipos del BCE a las hipotecas?
+        El BCE anuncia más subidas de los tipos de interés para las hipotecas
       </TitlePrincipal>
       <p>
         Los bancos llevan semanas anticipándose al giro de la política monetaria
-        con una oferta ajustada al nuevo escenario económico
+        con una oferta ajustada al nuevo escenario económico, pero quien más va
+        a soportar todo esto serán los consumidores.
       </p>
       <MarginStyled>
         <LinkYellow href="https://www.abc.es/economia/subida-tipos-interes-obstaculo-recuperacion-pymes-20220721144241-nt.html">

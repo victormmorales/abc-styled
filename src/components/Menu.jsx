@@ -10,6 +10,7 @@ const ContainerMenu = styled.div`
   justify-content: space-between;
   padding: 11px 12px 6px 12px;
   border-bottom: 6px solid #008ab7;
+  width: 100vw;
 `;
 
 const Menu = () => {
